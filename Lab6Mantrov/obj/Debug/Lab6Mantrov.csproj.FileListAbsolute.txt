@@ -1,0 +1,58 @@
+C:\Users\Администратор\source\repos\Lab6Mantrov\Lab6Mantrov\bin\Debug\Resources\school_logo.png
+C:\Users\Администратор\source\repos\Lab6Mantrov\Lab6Mantrov\bin\Debug\Lab6Mantrov.exe.config
+C:\Users\Администратор\source\repos\Lab6Mantrov\Lab6Mantrov\bin\Debug\Lab6Mantrov.exe
+C:\Users\Администратор\source\repos\Lab6Mantrov\Lab6Mantrov\bin\Debug\Lab6Mantrov.pdb
+C:\Users\Администратор\source\repos\Lab6Mantrov\Lab6Mantrov\obj\Debug\Lab6Mantrov.csproj.AssemblyReference.cache
+C:\Users\Администратор\source\repos\Lab6Mantrov\Lab6Mantrov\obj\Debug\Lab6Mantrov.csproj.SuggestedBindingRedirects.cache
+C:\Users\Администратор\source\repos\Lab6Mantrov\Lab6Mantrov\obj\Debug\MainWindow.g.cs
+C:\Users\Администратор\source\repos\Lab6Mantrov\Lab6Mantrov\obj\Debug\App.g.cs
+C:\Users\Администратор\source\repos\Lab6Mantrov\Lab6Mantrov\obj\Debug\Lab6Mantrov_MarkupCompile.cache
+C:\Users\Администратор\source\repos\Lab6Mantrov\Lab6Mantrov\obj\Debug\Lab6Mantrov_MarkupCompile.lref
+C:\Users\Администратор\source\repos\Lab6Mantrov\Lab6Mantrov\obj\Debug\MainWindow.baml
+C:\Users\Администратор\source\repos\Lab6Mantrov\Lab6Mantrov\obj\Debug\Lab6Mantrov.g.resources
+C:\Users\Администратор\source\repos\Lab6Mantrov\Lab6Mantrov\obj\Debug\Lab6Mantrov.Properties.Resources.resources
+C:\Users\Администратор\source\repos\Lab6Mantrov\Lab6Mantrov\obj\Debug\Lab6Mantrov.csproj.GenerateResource.cache
+C:\Users\Администратор\source\repos\Lab6Mantrov\Lab6Mantrov\obj\Debug\Lab6Mantrov.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\source\repos\Lab6Mantrov\Lab6Mantrov\obj\Debug\Lab6Mantrov.exe
+C:\Users\Администратор\source\repos\Lab6Mantrov\Lab6Mantrov\obj\Debug\Lab6Mantrov.pdb
+C:\Users\Администратор\source\repos\Lab6Mantrov\Lab6Mantrov\obj\Debug\AddEditPage.g.cs
+C:\Users\Администратор\source\repos\Lab6Mantrov\Lab6Mantrov\obj\Debug\ClientsPage.g.cs
+C:\Users\Администратор\source\repos\Lab6Mantrov\Lab6Mantrov\obj\Debug\AddEditPage.baml
+C:\Users\Администратор\source\repos\Lab6Mantrov\Lab6Mantrov\obj\Debug\ClientsPage.baml
+C:\Users\Администратор\source\repos\Lab6Mantrov\Lab6Mantrov\obj\Debug\App.baml
+C:\Users\Администратор\source\repos\Lab6Mantrov\Lab6Mantrov\bin\Debug\EntityFramework.dll
+C:\Users\Администратор\source\repos\Lab6Mantrov\Lab6Mantrov\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Администратор\source\repos\Lab6Mantrov\Lab6Mantrov\bin\Debug\EntityFramework.xml
+C:\Users\Администратор\source\repos\Lab6Mantrov\Lab6Mantrov\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Администратор\source\repos\Lab6Mantrov\Lab6Mantrov\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Администратор\source\repos\Lab6Mantrov\Lab6Mantrov\obj\Debug\Lab6Mantrov_Content.g.cs
+C:\Users\Администратор\source\repos\Lab6Mantrov\Lab6Mantrov\obj\Debug\Lab6Mantrov.csproj.CopyComplete
+C:\Users\Администратор\Desktop\Лабы WPF\Lab6Mantrov\Lab6Mantrov\obj\Debug\Lab6Mantrov.csproj.AssemblyReference.cache
+C:\Users\Администратор\Desktop\Лабы WPF\Lab6Mantrov\Lab6Mantrov\obj\Debug\Lab6Mantrov.csproj.SuggestedBindingRedirects.cache
+C:\Users\Администратор\Desktop\Лабы WPF\Lab6Mantrov\Lab6Mantrov\obj\Debug\AddEditPage.g.cs
+C:\Users\Администратор\Desktop\Лабы WPF\Lab6Mantrov\Lab6Mantrov\obj\Debug\ClientsPage.g.cs
+C:\Users\Администратор\Desktop\Лабы WPF\Lab6Mantrov\Lab6Mantrov\obj\Debug\MainWindow.g.cs
+C:\Users\Администратор\Desktop\Лабы WPF\Lab6Mantrov\Lab6Mantrov\obj\Debug\App.g.cs
+C:\Users\Администратор\Desktop\Лабы WPF\Lab6Mantrov\Lab6Mantrov\obj\Debug\Lab6Mantrov_Content.g.cs
+C:\Users\Администратор\Desktop\Лабы WPF\Lab6Mantrov\Lab6Mantrov\obj\Debug\Lab6Mantrov_MarkupCompile.cache
+C:\Users\Администратор\Desktop\Лабы WPF\Lab6Mantrov\Lab6Mantrov\obj\Debug\Lab6Mantrov_MarkupCompile.lref
+C:\Users\Администратор\Desktop\Лабы WPF\Lab6Mantrov\Lab6Mantrov\obj\Debug\Lab6Mantrov.exe
+C:\Users\Администратор\Desktop\Лабы WPF\Lab6Mantrov\Lab6Mantrov\obj\Debug\Lab6Mantrov.pdb
+C:\Users\Администратор\Desktop\Лабы WPF\Lab6Mantrov\Lab6Mantrov\bin\Debug\Resources\school_logo.png
+C:\Users\Администратор\Desktop\Лабы WPF\Lab6Mantrov\Lab6Mantrov\bin\Debug\Lab6Mantrov.exe.config
+C:\Users\Администратор\Desktop\Лабы WPF\Lab6Mantrov\Lab6Mantrov\bin\Debug\Lab6Mantrov.exe
+C:\Users\Администратор\Desktop\Лабы WPF\Lab6Mantrov\Lab6Mantrov\bin\Debug\Lab6Mantrov.pdb
+C:\Users\Администратор\Desktop\Лабы WPF\Lab6Mantrov\Lab6Mantrov\bin\Debug\EntityFramework.dll
+C:\Users\Администратор\Desktop\Лабы WPF\Lab6Mantrov\Lab6Mantrov\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Администратор\Desktop\Лабы WPF\Lab6Mantrov\Lab6Mantrov\bin\Debug\EntityFramework.xml
+C:\Users\Администратор\Desktop\Лабы WPF\Lab6Mantrov\Lab6Mantrov\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Администратор\Desktop\Лабы WPF\Lab6Mantrov\Lab6Mantrov\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Администратор\Desktop\Лабы WPF\Lab6Mantrov\Lab6Mantrov\obj\Debug\App.baml
+C:\Users\Администратор\Desktop\Лабы WPF\Lab6Mantrov\Lab6Mantrov\obj\Debug\AddEditPage.baml
+C:\Users\Администратор\Desktop\Лабы WPF\Lab6Mantrov\Lab6Mantrov\obj\Debug\ClientsPage.baml
+C:\Users\Администратор\Desktop\Лабы WPF\Lab6Mantrov\Lab6Mantrov\obj\Debug\MainWindow.baml
+C:\Users\Администратор\Desktop\Лабы WPF\Lab6Mantrov\Lab6Mantrov\obj\Debug\Lab6Mantrov.g.resources
+C:\Users\Администратор\Desktop\Лабы WPF\Lab6Mantrov\Lab6Mantrov\obj\Debug\Lab6Mantrov.Properties.Resources.resources
+C:\Users\Администратор\Desktop\Лабы WPF\Lab6Mantrov\Lab6Mantrov\obj\Debug\Lab6Mantrov.csproj.GenerateResource.cache
+C:\Users\Администратор\Desktop\Лабы WPF\Lab6Mantrov\Lab6Mantrov\obj\Debug\Lab6Mantrov.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\Desktop\Лабы WPF\Lab6Mantrov\Lab6Mantrov\obj\Debug\Lab6Mantrov.csproj.CopyComplete

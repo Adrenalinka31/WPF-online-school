@@ -1,0 +1,41 @@
+﻿<Window x:Class="Lab6Mantrov.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Lab6Mantrov"
+        mc:Ignorable="d"
+        Title="Лангуаге" Height="450" Width="800" MinWidth="800" MinHeight="450">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="1*" />
+            <RowDefinition Height="6*"/>
+        </Grid.RowDefinitions>
+        
+        <Image HorizontalAlignment="Left" 
+               Source="/school_logo.png"> 
+        </Image>
+        <TextBlock 
+            HorizontalAlignment="Center" 
+            VerticalAlignment="Center" 
+            FontFamily="Comic Sans MS" 
+            FontSize="36" 
+            FontWeight="Bold"
+            Text="Школа иностранного языка">
+        </TextBlock>
+        <Grid Background="#FFE7FABF" Panel.ZIndex="-2"></Grid>
+        <Frame 
+            ContentRendered="MainFrame_ContentRendered"
+            NavigationUIVisibility="Hidden"
+            Name="MainFrame"
+            Grid.Row="1">
+        </Frame>
+        <Button Name="BackButton"
+                HorizontalAlignment="Right"
+                Height="40"
+                Click="BackButton_Click"
+                Content="Назад"
+                Background="#FF04A0FF">
+        </Button>
+    </Grid>
+</Window>

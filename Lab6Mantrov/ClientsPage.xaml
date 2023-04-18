@@ -1,0 +1,96 @@
+﻿<Page x:Class="Lab6Mantrov.ClientsPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Lab6Mantrov"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="ClientsPage" IsVisibleChanged="Page_IsVisibleChanged">
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="2*"/>
+            <RowDefinition Height="8*"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <TextBlock 
+            HorizontalAlignment="Center"
+            VerticalAlignment="Center"
+            FontFamily="Comic Sans MS"
+            FontSize="20"
+            Text="Список клиентов">
+        </TextBlock>
+        <StackPanel Grid.Row="3" HorizontalAlignment="Right" Orientation="Horizontal">
+            <Button
+            Content="Добавить"           
+            Name="AddButton" Click="AddButton_Click"/>
+            <Button
+            Content="Редактировать"           
+            Name="EditButton"
+            Click="EditButton_Click"
+                Width="120"/>
+            <Button
+            Content="Удалить"           
+            Name="DelButton"
+            Click="DelButton_Click"/>
+        </StackPanel>
+        <DataGrid FontFamily="Comic Sans MS" 
+                  Name ="MainDataGrid" 
+                  Grid.Row="2"
+                  AutoGenerateColumns="False"
+                  IsReadOnly="True">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="№" Binding="{Binding ID}"/>
+                <DataGridTextColumn Header="Пол" Binding="{Binding Gender.Name}"/>
+                <DataGridTextColumn Header="Имя" Binding="{Binding FirstName}"/>
+                <DataGridTextColumn Header="Фамилия" Binding="{Binding LastName}"/>
+                <DataGridTextColumn Header="Отчество" Binding="{Binding Patronymic}"/>
+                <DataGridTextColumn Header="Дата рождения" Binding="{Binding Birthday}"/>
+                <DataGridTextColumn Header="Телефон" Binding="{Binding Phone}"/>
+                <DataGridTextColumn Header="Эл.почта" Binding="{Binding Email}"/>
+                <DataGridTextColumn Header="Дата добавления" Binding="{Binding RegistrationDate}"/>
+            </DataGrid.Columns>
+        </DataGrid>
+        <StackPanel Orientation="Horizontal" Grid.Row="1" HorizontalAlignment="Center">
+            <StackPanel Margin="10 0">
+                <TextBlock>Фильтрация</TextBlock>
+                <ComboBox Name="FilterComboBox" Width="100" Height="25"
+                          SelectionChanged="FilterComboBox_SelectionChanged"/>
+            </StackPanel>
+            <StackPanel Margin="10 0">
+                <TextBlock>Поиск</TextBlock>
+                <StackPanel Orientation="Horizontal">
+                    <ComboBox Name="SearchComboBox" Width="100" Height="25" Margin="0 0 5 0">
+                        <ComboBoxItem IsSelected="True">Фамилия</ComboBoxItem>
+                        <ComboBoxItem>Имя</ComboBoxItem>
+                        <ComboBoxItem>Отчество</ComboBoxItem>
+                        <ComboBoxItem>Email</ComboBoxItem>
+                        <ComboBoxItem>Телефон</ComboBoxItem>
+                    </ComboBox>
+                    <TextBox Name="SearchTextBox" Width="150"
+                             TextChanged="SearchTextBox_TextChanged"></TextBox>
+                </StackPanel>
+            </StackPanel>
+            <StackPanel Margin="10 0">
+                <TextBlock>Сортировка</TextBlock>
+                <StackPanel Orientation="Horizontal">
+                    <ComboBox Name="SortComboBox" Width="100" Height="25" Margin="0 0 5 0"
+                              SelectionChanged="SortComboBox_SelectionChanged">
+                        <ComboBoxItem IsSelected="True">нет</ComboBoxItem>
+                        <ComboBoxItem>фамилия</ComboBoxItem>
+                        <ComboBoxItem>Дата регистрации</ComboBoxItem>
+                    </ComboBox>
+                    <StackPanel>
+                        <RadioButton Name="UpRadioButton"
+                                      IsChecked="True"
+                                     Checked="UpRadioButton_Checked">По возрастанию</RadioButton>
+                        <RadioButton Name="DownRadioButton"
+                                     Checked="DownRadioButton_Checked">По убыванию</RadioButton>
+                    </StackPanel>
+                </StackPanel>
+            </StackPanel>
+        </StackPanel>
+    </Grid>
+</Page>
